@@ -17,21 +17,4 @@ Mouse Game
 During my ICS 111 class at UH Manoa , my team and I created a simple video game for our final project. The objective of the game was for the player to collect all the tokens on the window while a cat was chasing it. It was a simple game that players can play using simple keyboard keys. We developed this short game on ECLIPSE IDE. 
 
 
-Here is some code that illustrates how we read values from the line sensors:
-
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
-
-
 
