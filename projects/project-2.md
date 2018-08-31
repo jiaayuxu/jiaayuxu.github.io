@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+image: 
+title: GEE MAIL
+permalink: 
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-15
 labels:
