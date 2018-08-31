@@ -1,11 +1,11 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Jiayu Xu",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/26235005.jpg",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "jx2@hawaii.edu",
+    "phone": "808-636-1342",
+    "website": "https://jiaayuxu.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
@@ -17,13 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "jiaayuxu",
+        "url": "http://github.com/jiaayuxu"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "jiayu xu",
+        "url": "https://www.linkedin.com/in/jiayu-xu-7126b5169/"
       },
       {
         "network": "twitter",
