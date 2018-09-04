@@ -5,7 +5,7 @@ image:
 title: GEE MAIL
 permalink: 
 # All dates must be YYYY-MM-DD format!
-date: 2016-12-15
+date: 2018-08-31
 labels:
   - HTML
   - CSS
