@@ -14,7 +14,7 @@ summary: My team and I created a simple video game
 ---
 Mouse Game 
 
-During my ICS 111 class at UH Manoa , my team and I created a simple video game for our final project. The objective of the game was for the player to collect all the tokens on the window while a cat was chasing it. It was a simple game that players can play using simple keyboard keys. We developed this short game on ECLIPSE IDE....
+During my ICS 111 class at UH Manoa , my team and I created a simple video game for our final project. The objective of the game was for the player to collect all the tokens on the window while a cat was chasing it. It was a simple game that players can play using simple keyboard keys. We developed this short game on ECLIPSE IDE. :)
 
 
 
